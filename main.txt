@@ -1,0 +1,11 @@
+Solar2D is a free and open-source, cross-platform software development kit.
+It is coded using Lua.
+
+Website: https://solar2d.com/
+Other website: https://coronalabs.com/ 
+Download: https://github.com/coronalabs/corona/releases
+
+It was originally called Corona, made by Corona Labs Inc. 
+Now it's called Solar 2D.
+
+Currently maintained by Vlad Shcherban.
